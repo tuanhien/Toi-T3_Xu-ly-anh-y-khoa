@@ -1,3 +1,6 @@
+#1:
+add file: config.json {"GROQ_API_KEY": "API_KEY"}
+
 cmd run: 
 pip install streamlit google-generativeai
 pip install groq
